@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Janice Darikho
 header-img: img/home-bg.png
 email: janicedarikho@gmail.com
 copyright_name: jouissances
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Indonesian UX designer and developer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jouissances
