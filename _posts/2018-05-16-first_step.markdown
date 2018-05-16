@@ -5,7 +5,9 @@ date:       2018-05-16 06:55:55 -0400
 permalink:  first_step
 ---
 
-### This post marks my first step towards becoming a career Full Stack developer. I'm not, by any means, the first mid-career changers who decided to pursue tech as a lifetime career. For me, that original career path is as a medical sales representative in Singapore.
+### This post marks my first step towards becoming a career Full Stack developer. 
+
+I'm not, by any means, the first mid-career changer who decided to pursue tech as a lifetime career. For me, that original career path is as a medical sales representative in Singapore.
 
 I first dabbled in code when I was 16, designing custom HTML and CSS post templates for [online Harry Potter RPG forums](https://potterdirectory.tumblr.com/). I didn't know it was called 'code' then, I just figured it made things look and work better. One thing led to another, and after my college graduation, I had plenty of free time while job-searching, and I clicked on an ad that led me to [Codecademy](https://www.codecademy.com/catalog/subject/web-development). I spent many hours learning the basics of Front End, and after a week, I decided to enrol in one of the Pro Intensive courses. As of now, they have 9 Intensive courses, from Build Websites from Scratch, Build Front-End Web Apps, Build Website UIs, Programming with Python, to Data Analysis. I completed the first three courses, but I still didn't feel satisfied. I browed through [SiteInspire](https://www.siteinspire.com/) and I get a headache thinking about how to apply my current skills to build these products. I wanted to learn so much more. By now, 4 months have passed and I was just starting with my current job. 
 
@@ -29,3 +31,9 @@ Firstly, this may not directly contribute to the progress of tech as a whole, an
 I have many others, but I'm sure that I might be preaching to the choir here. I'm also very opinionated about the importance of design in creating impactful products, which is why I'm also enrolled in a UX Design course. After my Flatiron graduation, I would like to find a Junior Developer position where I'm also allowed to be flexible and participate in the UX research team, or vice versa. I would like to find a job that provides me with a much better financial resource, future prospect, and autonomy when it comes to learning continuously. I would love to find a job that allows me the freedom to work remotely, preferably with a small, capable, and ambitious team.
 
 In 5 years' time, I hope to be able to also build a remote digital agency that focuses on creating impact for SMEs and non-profits.
+
+There are many things I'm not confident about — such as the hiring climate in Singapore by the time I graduate, the discrepancy between the advertised salaries on bootcamps and the actual salaries which local companies are willing to offer. I would even be lying if I was to say that I'm perfectly confident that everything will go easy during this bootcamp, especially with the GMT +8 timezone and 3AM study groups. 
+
+But here's to never giving up.
+
+
