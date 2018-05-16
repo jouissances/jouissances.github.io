@@ -5,7 +5,7 @@ date:       2018-05-16 06:55:55 -0400
 permalink:  first_step
 ---
 
-This post marks my first step towards becoming a career Full Stack developer. However, I'm not, by any means, the first mid-career changers who decided to pursue tech as a lifetime career. For me, that original career path is as a medical sales representative in Singapore.
+### This post marks my first step towards becoming a career Full Stack developer. I'm not, by any means, the first mid-career changers who decided to pursue tech as a lifetime career. For me, that original career path is as a medical sales representative in Singapore.
 
 I first dabbled in code when I was 16, designing custom HTML and CSS post templates for [online Harry Potter RPG forums](https://potterdirectory.tumblr.com/). I didn't know it was called 'code' then, I just figured it made things look and work better. One thing led to another, and after my college graduation, I had plenty of free time while job-searching, and I clicked on an ad that led me to [Codecademy](https://www.codecademy.com/catalog/subject/web-development). I spent many hours learning the basics of Front End, and after a week, I decided to enrol in one of the Pro Intensive courses. As of now, they have 9 Intensive courses, from Build Websites from Scratch, Build Front-End Web Apps, Build Website UIs, Programming with Python, to Data Analysis. I completed the first three courses, but I still didn't feel satisfied. I browed through [SiteInspire](https://www.siteinspire.com/) and I get a headache thinking about how to apply my current skills to build these products. I wanted to learn so much more. By now, 4 months have passed and I was just starting with my current job. 
 
