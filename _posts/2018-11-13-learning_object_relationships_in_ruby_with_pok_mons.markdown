@@ -48,7 +48,7 @@ end
 
 We’re also going to create a `Move` class, not to complicate things, but because we promised to teach our best friends a few chops and kicks! Since we can only teach certain moves to Pokémons of a corresponding type, we also need to define `pokemon_type` when we’re creating a new instance variable `move`.
 
-`
+```
 class Move
   attr_accessor :pokemon_type, :move
 
@@ -57,7 +57,7 @@ class Move
     @move = move
   end
 end
-`
+```
 
 Now, we’re done setting up! Let’s go back to our `Trainer` class. We’ve chosen Pikachu as our first starter, and we need a method within our class to add Pikachu onto our slots. Our `#add_pokemon` method will, *well*, add our Pokémon for us. And by assigning `self` to our `pokemon.trainer`, we automatically reciprocates the relationship between new Pokémon and ourselves, the trainer. Lastly, we can also check each Pokémon in our current slots using the `#pokemon_slots` method, which will also helpfully tell us our Pokémon’s type.
 
