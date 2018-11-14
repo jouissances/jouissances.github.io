@@ -148,8 +148,7 @@ All done! Here, we learn about how each class can use the informations in other 
 
 <hr>
 
-*All flub-ups and boo-boos, if there are any, are mine. Any questions, shoot a message anytime! I don’t bite. Follow me on Twitter at @jouissances. Originally published on Medium [here](https://medium.com/@janicedarikho/learning-object-relationship-in-ruby-with-pok%C3%A9mons-c1f7e816fa8a).
-*
+*All flub-ups and boo-boos, if there are any, are mine. Any questions, shoot a message anytime! I don’t bite. Follow me on Twitter at @jouissances. Originally published on Medium [here](https://medium.com/@janicedarikho/learning-object-relationship-in-ruby-with-pok%C3%A9mons-c1f7e816fa8a).*
 
 
 
