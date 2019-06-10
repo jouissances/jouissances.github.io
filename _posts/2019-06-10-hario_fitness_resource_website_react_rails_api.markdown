@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "hario: Fitness Resource Website (React + Rails API)"
-date:       2019-06-10 16:29:02 +0000
+date:       2019-06-10 12:29:03 -0400
 permalink:  hario_fitness_resource_website_react_rails_api
 ---
 
 
-Last portfolio project. It’s been a long, fruitful ride. In this post, I will outline the steps needed to design, build, and deploy [hario](https://hario.netlify.com/). This project feels like the epitome of “if you want to learn how to build it, you have to build it”. I bumped into more obstacles than ever, but ultimately got through them.
+Last portfolio project. It’s been a long, fruitful ride. In this post, I will outline the steps needed to design, build, and deploy [hario](https://hario.netlify.com/). This project feels like the epitome of “*if you want to learn how to build it, you have to build it*”. I bumped into more obstacles than ever, but ultimately got through them.
 
 If you have more suggestions for fitness tools, comment below and I’ll build them!
 
