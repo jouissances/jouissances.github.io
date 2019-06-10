@@ -29,11 +29,6 @@ An important strategy I’d like to keep in mind for future Rails project is to 
 ## 3. Design
 After my previous project ([Flatiron Hall)](http://flatiron-hall.herokuapp.com), I learned the value in focusing on the user flow diagram when designing. This is essential as this project is larger in scope than Flatiron Hall, and I did not want to waste time in determining where the user is at any point in time, and where to redirect the user to after a method is run.
 
-##4. Architecture
-Defining the relationships between model is no easy task, either. But after this project, I have a better idea about has_many :through, as well as about setting up references in the database.
-
-One thing I wish I had done is to set up my Rails app with a PostgreSQL database from the start, rather than after development and before deployment to Heroku. I’d also check my Ruby version and make sure that it fulfils Heroku’s minimum acceptable version.
-
 ## 4. Architecture
 Defining the relationships between model is no easy task, either. But after this project, I have a better idea about `has_many :through`, as well as about setting up references in the database.
 
