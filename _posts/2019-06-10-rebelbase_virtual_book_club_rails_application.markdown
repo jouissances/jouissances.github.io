@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "RebelBase: Virtual Book Club Rails Application"
-date:       2019-06-10 16:08:58 +0000
+date:       2019-06-10 12:08:58 -0400
 permalink:  rebelbase_virtual_book_club_rails_application
 ---
 
